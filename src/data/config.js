@@ -7,7 +7,7 @@ module.exports = {
   defaultDescription: 'I’m Mauricio and I’m a Backend & Frontend engineer!',
   socialLinks: {
     github: 'https://github.com/mperazac',
-    linkedin: 'https://www.linkedin.com/in/ismail-ghallou-630149122/',
+    linkedin: 'https://www.linkedin.com/in/mauricio-peraza-b821b129/',
   },
   googleAnalyticsID: '',
   themeColor: '#6b63ff',
@@ -27,5 +27,5 @@ module.exports = {
     phone: '',
   },
   foundingDate: '2015',
-  recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN',
+  recaptcha_key: '6LecstkUAAAAAJWVxemANdypIHTEuhAkXYhzb_3n',
 };
