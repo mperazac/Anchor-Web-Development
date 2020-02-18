@@ -1,9 +1,9 @@
 module.exports = {
-  defaultTitle: 'Mauricio Peraza',
+  defaultTitle: 'Anchor Web Development',
   logo: './../assets/logo.png',
-  author: 'Mauricio Peraza',
+  author: 'Anchor Web Development',
   url: 'https://www.anchorweb.dev',
-  legalName: 'Mauricio Peraza',
+  legalName: 'Anchor Web Development',
   defaultDescription: 'I’m Mauricio and I’m a Backend & Frontend engineer!',
   socialLinks: {
     github: 'https://github.com/mperazac',
