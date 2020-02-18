@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 import { Container } from 'components/common';
 import NavbarLinks from '../NavbarLinks';
 import { Wrapper } from './styles';
-import logo from '../../../../assets/logo.png';
+import logo from '../../../../assets/anchor_logo.png';
 
 const Navbar = () => (
   <Wrapper as={Container}>
